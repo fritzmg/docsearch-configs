@@ -45,7 +45,7 @@
   },
   "custom_settings": {
     "attributesForFaceting": [
-      "language"
+      "language", "type"
     ]
   },
   "conversation_id": [
